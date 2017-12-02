@@ -1,0 +1,12 @@
+# Maven
+target/
+
+# Eclipse
+.settings/
+.classpath
+.project
+.factorypath
+.apt_generated/
+
+# Mac
+.DS_Store
